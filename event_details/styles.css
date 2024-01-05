@@ -124,6 +124,9 @@ h6{
 }
 .container_2{
   margin: 4rem 2rem;
+  padding: 1.4rem;
+  background-color: var(--neutral-300);
+  border-radius: 1.4rem;
   display: flex;
   flex-direction: column;
   position: absolute;
